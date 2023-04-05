@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Excubo.Blazor.Diagrams
+build_property.RootNamespace = Excubo.Blazor.Diagrams
+build_property.ProjectDir = C:\Users\Hp\Desktop\Blazor.Diagrams-main\Blazor.Diagrams-main\Diagram\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hp\Desktop\Blazor.Diagrams-main\Blazor.Diagrams-main\Diagram
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/AngledLink.razor]
+build_metadata.AdditionalFiles.TargetPath = QW5nbGVkTGluay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/CurvedLink.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VydmVkTGluay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/Diagram.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhZ3JhbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/DiamondNode.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbW9uZE5vZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/EllipseNode.razor]
+build_metadata.AdditionalFiles.TargetPath = RWxsaXBzZU5vZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/FixedSizeDiamondNode.razor]
+build_metadata.AdditionalFiles.TargetPath = Rml4ZWRTaXplRGlhbW9uZE5vZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/FixedSizeEllipseNode.razor]
+build_metadata.AdditionalFiles.TargetPath = Rml4ZWRTaXplRWxsaXBzZU5vZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/FixedSizeRectangleNode.razor]
+build_metadata.AdditionalFiles.TargetPath = Rml4ZWRTaXplUmVjdGFuZ2xlTm9kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/Links.razor]
+build_metadata.AdditionalFiles.TargetPath = TGlua3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/Nodes.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9kZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/RectangleNode.razor]
+build_metadata.AdditionalFiles.TargetPath = UmVjdGFuZ2xlTm9kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/StraightLink.razor]
+build_metadata.AdditionalFiles.TargetPath = U3RyYWlnaHRMaW5rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/__Internal/DefaultLinkSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxEZWZhdWx0TGlua1NlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/__Internal/GeneratedLinks.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxHZW5lcmF0ZWRMaW5rcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/__Internal/NodeContent.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxOb2RlQ29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/__Internal/NodeLibraryWrapper.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxOb2RlTGlicmFyeVdyYXBwZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/__Internal/Overview.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/Diagram/__Internal/SelectRegion.razor]
+build_metadata.AdditionalFiles.TargetPath = X19JbnRlcm5hbFxTZWxlY3RSZWdpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

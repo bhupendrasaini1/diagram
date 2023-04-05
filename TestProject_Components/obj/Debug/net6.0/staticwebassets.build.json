@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "Hash": "r5guV3mevNIp/znlDOvfwQDgwG9vXqqD3Uywk/OW2ZI=",
+  "Source": "TestProject_Components",
+  "BasePath": "_content/TestProject_Components",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\Diagram\\Blazor.Diagrams.csproj",
+      "Version": 2,
+      "Source": "Excubo.Blazor.Diagrams",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestProject_Components\\wwwroot",
+      "Source": "TestProject_Components",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\wwwroot\\",
+      "BasePath": "_content/TestProject_Components",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.css",
+      "SourceId": "Excubo.Blazor.Grids",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.min.css",
+      "SourceId": "Excubo.Blazor.Grids",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "RelativePath": "style.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\wwwroot\\site.css",
+      "SourceId": "TestProject_Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\wwwroot\\",
+      "BasePath": "_content/TestProject_Components",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}

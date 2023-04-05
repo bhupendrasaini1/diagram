@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Excubo.Blazor.Diagrams.props" />
+</Project>

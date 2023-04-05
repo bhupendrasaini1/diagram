@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "Hash": "d3zYxVVaXLYV+FJyFkRsqHDRcqDnS5/uK0Z1nyK5NKA=",
+  "Source": "TestProject_ServerSide",
+  "BasePath": "_content/TestProject_ServerSide",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\Diagram\\Blazor.Diagrams.csproj",
+      "Version": 2,
+      "Source": "Excubo.Blazor.Diagrams",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\TestProject_Components.csproj",
+      "Version": 2,
+      "Source": "TestProject_Components",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestProject_Components\\wwwroot",
+      "Source": "TestProject_Components",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\wwwroot\\",
+      "BasePath": "_content/TestProject_Components",
+      "Pattern": "**"
+    },
+    {
+      "Name": "TestProject_ServerSide\\wwwroot",
+      "Source": "TestProject_ServerSide",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_ServerSide\\wwwroot\\",
+      "BasePath": "_content/TestProject_ServerSide",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.css",
+      "SourceId": "Excubo.Blazor.Grids",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.min.css",
+      "SourceId": "Excubo.Blazor.Grids",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\",
+      "BasePath": "_content/Excubo.Blazor.Grids",
+      "RelativePath": "style.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\.nuget\\packages\\excubo.blazor.grids\\3.1.8\\staticwebassets\\style.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\wwwroot\\site.css",
+      "SourceId": "TestProject_Components",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_Components\\wwwroot\\",
+      "BasePath": "_content/TestProject_Components",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_ServerSide\\wwwroot\\favicon.ico",
+      "SourceId": "TestProject_ServerSide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Blazor.Diagrams-main\\Blazor.Diagrams-main\\TestProject_ServerSide\\wwwroot\\",
+      "BasePath": "_content/TestProject_ServerSide",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

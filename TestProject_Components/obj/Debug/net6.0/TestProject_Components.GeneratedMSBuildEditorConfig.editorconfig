@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestProject_Components
+build_property.RootNamespace = TestProject_Components
+build_property.ProjectDir = C:\Users\Hp\Desktop\Blazor.Diagrams-main\Blazor.Diagrams-main\TestProject_Components\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hp\Desktop\Blazor.Diagrams-main\Blazor.Diagrams-main\TestProject_Components
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/AddAndRemoveFromCode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQW5kUmVtb3ZlRnJvbUNvZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/AutoLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/CustomNode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tTm9kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/FixedNode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRml4ZWROb2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/GridLines.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JpZExpbmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/PanningDisabled.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFubmluZ0Rpc2FibGVkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/Performance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyZm9ybWFuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/Ports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/Selection.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VsZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/UserDefinedNode.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckRlZmluZWROb2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/WithLinkSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2l0aExpbmtTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/WithNodeLibrary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2l0aE5vZGVMaWJyYXJ5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/WithOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2l0aE92ZXJ2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Pages/Zooming.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWm9vbWluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Shared/CommitLink.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbW1pdExpbmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Shared/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/Shared/SourceCodeLink.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNvdXJjZUNvZGVMaW5rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Blazor.Diagrams-main/Blazor.Diagrams-main/TestProject_Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
